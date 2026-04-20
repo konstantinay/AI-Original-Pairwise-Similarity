@@ -13,7 +13,7 @@ This project implements pairwise similarity metrics to determine whether two aud
 
 ```
 AI-Original-Pairwise-Similarity/
-├── song_attribution_score_clean/     # Refactored modular implementation
+├── song_attribution_score/     
 │   ├── audio_utils.py                # Audio preprocessing and segmentation
 │   ├── feature_extraction.py         # Feature extraction (MFCC, chroma, etc.)
 │   ├── compute_similarities.py       # Pairwise similarity metrics
